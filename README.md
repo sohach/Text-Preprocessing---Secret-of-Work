@@ -8,4 +8,14 @@ Pre-processing Carried
 - Non_stop_words
 - Special Character Removal
 - Word Cloud
-- Exploratory Data Analysis - Distribution of Word count, Char count, Avg Word count, Non-stop words, Rare words, Top 20 - Unigram, Bigram, Tri-gram with Stopwords, Top 20 - Unigram, Bigram, Tri-gram without Stopwords, Top 20 Parts of Speech Tags Distribution
+- Exploratory Data Analysis 
+  - Distribution of Word count
+  - Char count
+  - Avg Word count
+  - Non-stop words
+  - Rare words
+  - Top 20 - Unigram
+  - Bigram, Tri-gram with Stopwords
+  - Top 20 - Unigram, Bigram, Tri-gram without Stopwords
+  - Top 20 Parts of Speech Tags Distribution
+ 

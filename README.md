@@ -1,11 +1,11 @@
-Pre-processing Carried:
-1.Word Count
-2.Char Count
-3.Avg Word Count
-4.Stopwords Count
-5.Upper_counts
-6.Numeric_counts
-7.Non_stop_words
-8.Special Character Removal
-9.Word Cloud
-10.Exploratory Data Analysis - Distribution of Word count, Char count, Avg Word count, Non-stop words, Rare words, Top 20 - Unigram, Bigram, Tri-gram with Stopwords, Top 20 - Unigram, Bigram, Tri-gram without Stopwords, Top 20 Parts of Speech Tags Distribution
+Pre-processing Carried
+- Word Count
+- Char Count
+- Avg Word Count
+- Stopwords Count
+- Upper_counts
+- Numeric_counts
+- Non_stop_words
+- Special Character Removal
+- Word Cloud
+- Exploratory Data Analysis - Distribution of Word count, Char count, Avg Word count, Non-stop words, Rare words, Top 20 - Unigram, Bigram, Tri-gram with Stopwords, Top 20 - Unigram, Bigram, Tri-gram without Stopwords, Top 20 Parts of Speech Tags Distribution

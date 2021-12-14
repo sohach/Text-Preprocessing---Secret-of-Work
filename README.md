@@ -1,4 +1,4 @@
-Pre-processing :
+Pre-processing Carried:
 1.Word Count
 2.Char Count
 3.Avg Word Count
